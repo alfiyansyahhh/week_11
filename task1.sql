@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `tbl_products`
+-- Table structure for table `tbl_productss`
 --
 
 CREATE TABLE `tbl_products` (
